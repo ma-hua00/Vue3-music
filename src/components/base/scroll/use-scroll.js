@@ -1,4 +1,5 @@
 import BScroll from '@better-scroll/core'
+// better-scroll自动监测dom结构变化插件
 import ObserveDOM from '@better-scroll/observe-dom'
 
 import { ref, onMounted, onUnmounted } from 'vue'
